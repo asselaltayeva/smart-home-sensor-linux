@@ -1,0 +1,21 @@
+1001 Light01    activate
+1002 Light02    off
+1003 Thermo01   activate
+1004 Thermo02   off
+1005 Camera01   activate
+1006 Camera02   off
+1007 Speaker1   activate
+1008 Speaker2   off
+1009 DoorLock1  activate
+1010 DoorLock2  off
+1011 Sensor01   activate
+1012 Sensor02   off
+1013 Fan01      activate
+1014 Fan02      off
+1015 Plug01     activate
+1016 Plug02     off
+1017 Curtain01  activate
+1018 Curtain02  off
+1019 Washer01   activate
+1020 Dryer01    off
+
